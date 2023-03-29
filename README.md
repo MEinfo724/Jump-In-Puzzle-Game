@@ -1,6 +1,7 @@
 # Jump-In-Puzzle-Game
 
-Jump In este un joc de tip puzzle facut in C++.
+Jump In este un joc de tip puzzle facut in C++. 
+Scopul jocului este de a muta iepurii în tunele. Aceștia se pot mișca doar sărind peste obiecte
 
 ![alt text](https://raw.githubusercontent.com/MEinfo724/Jump-In-Puzzle-Game/main/PozeJoc/Meniul%20Principal.png)
 ## Rulare
