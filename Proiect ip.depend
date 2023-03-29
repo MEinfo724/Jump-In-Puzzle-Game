@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1610033039 source:d:\facultatea de informatica\proiect ip\proiect ip\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+
+1610038769 source:c:\users\achim\onedrive\desktop\marcu\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+
+1610118520 source:d:\facultatea de informatica\proiect ip\proiect ip achim\marcu\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+
+1610118520 source:d:\facultatea de informatica\proiect ip\jump in latest version\marcu\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+
+1610718420 source:d:\facultatea de informatica\proiect ip\jump in latest version\ip\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+	<fstream>
+	<shellapi.h>
+
+1610794150 source:d:\facultatea de informatica\proiect ip\jump in latest version\ip final\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+	<fstream>
+	<shellapi.h>
+
+1610794150 source:d:\facultatea de informatica\ip final\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+	<fstream>
+	<shellapi.h>
+
