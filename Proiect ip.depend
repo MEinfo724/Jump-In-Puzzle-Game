@@ -68,3 +68,14 @@
 	<fstream>
 	<shellapi.h>
 
+1680091441 source:d:\github proiecte\jump in\jump-in-puzzle-game\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	"mmsystem.h"
+	<fstream>
+	<shellapi.h>
+
